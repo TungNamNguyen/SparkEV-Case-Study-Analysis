@@ -1,7 +1,7 @@
 # SparkEV-Case-Study-Analysis
 Please have a look at the [SparkEV Dashboard](https://public.tableau.com/app/profile/tung.nguyen.nam/viz/SparkEVCaseStudyAnalysis/Performance)
 
-Overview
+Overview Dashboard
 ![image](https://github.com/TungNamNguyen/SparkEV-Case-Study-Analysis/assets/106413417/4cd274c9-5afb-4184-b10a-7266e02eda2f)
 
 Performance Dashboard
